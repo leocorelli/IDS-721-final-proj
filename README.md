@@ -3,6 +3,8 @@ Leo Corelli and Bhargav Shetgaonkar
 
 [Website](https://u3fd6dambz.us-east-1.awsapprunner.com/)
 
+[Demo Video](https://duke.box.com/s/izob0a3mg9gotg9qo2190n8yef1xj2xu)
+
 
 [![Python application test with Github Actions](https://github.com/leocorelli/IDS-721-final-proj/actions/workflows/main.yml/badge.svg)](https://github.com/leocorelli/IDS-721-final-proj/actions/workflows/main.yml)
 
