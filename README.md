@@ -22,3 +22,14 @@ After both being blown away by the power of AutoML, we decided to train a model 
 <p align="center">
   <img src="https://github.com/leocorelli/IDS-721-final-proj/blob/main/images/workflow%20diagram.png" width="800" />
 </p>
+
+## Additional Load Testing
+
+In our initial load testing in our demo video, we were running the ML model every time for each user. In the case below, we just swarmed the home page of our web microservice. It easily accomodates 30 concurrent users at around 500 requests per second with an average response time of 61 ms.
+
+<p align="center">
+  <img src="https://github.com/leocorelli/IDS-721-final-proj/blob/main/images/locust%20params.png" width="200" />
+</p>
+<p align="center">
+  <img src="https://github.com/leocorelli/IDS-721-final-proj/blob/main/images/further%20results.png" width="1000" />
+</p>
