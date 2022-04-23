@@ -1,12 +1,10 @@
 # Duke University IDS721 Final Project
+[![Python application test with Github Actions](https://github.com/leocorelli/IDS-721-final-proj/actions/workflows/main.yml/badge.svg)](https://github.com/leocorelli/IDS-721-final-proj/actions/workflows/main.yml)
+
 Leo Corelli and Bhargav Shetgaonkar
 
-[Website](https://u3fd6dambz.us-east-1.awsapprunner.com/)
-
-[Demo Video](https://duke.box.com/s/izob0a3mg9gotg9qo2190n8yef1xj2xu)
-
-
-[![Python application test with Github Actions](https://github.com/leocorelli/IDS-721-final-proj/actions/workflows/main.yml/badge.svg)](https://github.com/leocorelli/IDS-721-final-proj/actions/workflows/main.yml)
+- [Website](https://u3fd6dambz.us-east-1.awsapprunner.com/)
+- [Demo Video](https://duke.box.com/s/izob0a3mg9gotg9qo2190n8yef1xj2xu)
 
 <p align="center">
   <img src="https://github.com/leocorelli/IDS-721-final-proj/blob/main/images/Red_Wine_picto.png" width="120" />
