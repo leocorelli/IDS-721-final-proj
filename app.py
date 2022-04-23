@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Request
 from fastapi.templating import Jinja2Templates
 import uvicorn
-from scripts.load_model import load_model
+from load_model import load_model
 import pandas as pd
 import numpy as np
 
